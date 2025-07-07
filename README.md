@@ -15,14 +15,14 @@ Click “Add to Server”, and choose your server of choice. Click “Continue�
 <h1 class="code-line" data-line-start=17 data-line-end=18 ><a id="Tutorial_2_Bot_Setup_17"></a>Tutorial #2 (Bot Setup)</h1>
 <p class="has-line-data" data-line-start="18" data-line-end="29">(Note: This tutorial is for Windows only! The installation process may be different on Mac or Linux.)<br>
 Download the latest Doctor Alexa .zip file from the releases page (https://github.com/TeaDrink1/doctor-alexa/releases/tag/bot), and extract it.<br>
-Go to <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a> and download the most recent version of Python.<br>
+Go to <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a> and download the latest version of Python.<br>
 Run the .exe you downloaded from python.org and go through the installer.<br>
 After python has successfully installed, open command prompt.<br>
 Type in &quot;pip install <a href="http://discord.py">discord.py</a>&quot; and press Enter.<br>
 Go back to the Discord Developer Portal. Click “Bot” on the left.<br>
 Click “Reset Token”, then “Yes, do it!”<br>
 Your new bot token will now appear. Click “Copy”.<br>
-Open “token.txt” in Notepad or your preferred text editor.<br>
+Go to the Doctor Alexa folder you extracted, and open “token.txt” in Notepad or your preferred text editor.<br>
 Paste your bot’s token into the blank page, and press CTRL+S to save your changes.</p>
 <h1 class="code-line" data-line-start=30 data-line-end=31 ><a id="Running_the_Bot_30"></a>Running the Bot</h1>
 <p class="has-line-data" data-line-start="31" data-line-end="36">Open &quot;<a href="http://bot.py">bot.py</a>&quot;. If everything properly started, the console should stay open.<br>
