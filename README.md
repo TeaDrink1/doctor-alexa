@@ -26,7 +26,7 @@ Open “token.txt” in Notepad or your preferred text editor.<br>
 Paste your bot’s token into the blank page, and press CTRL+S to save your changes.</p>
 <h1 class="code-line" data-line-start=30 data-line-end=31 ><a id="Running_the_Bot_30"></a>Running the Bot</h1>
 <p class="has-line-data" data-line-start="31" data-line-end="36">Open &quot;<a href="http://bot.py">bot.py</a>&quot;. If everything properly started, the console should stay open.<br>
-Go to the Discord server you previously invited your app to, and say !massban to begin the banning process.<br>
+Go to the Discord server you previously invited your app to, and say !massban to begin the banning process. The app will send a message in the same channel after every user was successfully banned.<br>
 (Note: You will need the “ban members” permission to run !massban. The app will also have to be able to view the channel you run the command in.)<br>
-If the console starts outputting “[USER] was banned”, the bot is properly working. Make sure to leave it open during the banning process.<br>
-The app will send a message in the same channel after every user was successfully banned.</p>
+If the console starts outputting “[USER] was banned”, the bot is properly working.<br>
+If you would like to abort the massban, close the console.</p>
