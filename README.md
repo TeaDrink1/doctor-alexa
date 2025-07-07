@@ -16,7 +16,7 @@ Click “Add to Server”, and choose your server of choice. Click “Continue�
 <p class="has-line-data" data-line-start="18" data-line-end="29">(Note: This tutorial is for Windows only! The installation process may be different on Mac or Linux.)<br>
 Download the latest Doctor Alexa .zip file from the releases page (https://github.com/TeaDrink1/doctor-alexa/releases/tag/bot), and extract it.<br>
 Go to <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a> and download the most recent version of Python.<br>
-Run the downloaded .exe file and go through the installer.<br>
+Run the .exe you downloaded from python.org and go through the installer.<br>
 After python has successfully installed, open command prompt.<br>
 Type in &quot;pip install <a href="http://discord.py">discord.py</a>&quot; and press Enter.<br>
 Go back to the Discord Developer Portal. Click “Bot” on the left.<br>
