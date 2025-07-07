@@ -3,7 +3,7 @@
 This bot is designed to ban almost every member of multiple Anti-FPE/Anti-Fandom groups, as well as individual trolls who may cause problems in your server.</p>
 <p class="has-line-data" data-line-start="5" data-line-end="6">(Note: Users frequently join and leave these servers, so trolls may still slip through the cracks! Do not expect this bot to be the perfect solution.)</p>
 <h1 class="code-line" data-line-start=6 data-line-end=7 ><a id="Tutorial_Application_Setup_6"></a>Tutorial (Application Setup)</h1>
-<p class="has-line-data" data-line-start="7" data-line-end="16">Go to the [Discord Developer Portal](https://discord.com/developers/applications)<br>
+<p class="has-line-data" data-line-start="7" data-line-end="16">Go to the Discord Developer Portal: https://discord.com/developers/applications<br>
 Log into your Discord account (if you are not already logged in).<br>
 Click “New Application” on the top right, and name the app whatever you’d like.<br>
 Once you’re in the app’s “General Information” page, click “Bot” on the left. Scroll down to “Privileged Gateway Intents”. Toggle on all three of them, and save your changes.<br>
@@ -19,7 +19,7 @@ Go to <a href="https://www.python.org/downloads/">https://www.python.org/downloa
 Run the downloaded .exe file and go through the installer.<br>
 After python has successfully installed, open command prompt.<br>
 Type in &quot;pip install <a href="http://discord.py">discord.py</a>&quot; and press Enter.<br>
-Go back to the [Discord Developer Portal](https://discord.com/developers/applications). Click “Bot” on the left.<br>
+Go back to the Discord Developer Portal. Click “Bot” on the left.<br>
 Click “Reset Token”, then “Yes, do it!”<br>
 Your new bot token will now appear. Click “Copy”.<br>
 Open “token.txt” in Notepad or your preferred text editor.<br>
