@@ -11,7 +11,7 @@ After that, click “Installation” on the left and scroll down to “Guild Ins
 Click the dropdown box under “Scopes”, then click “bot”.<br>
 Click the new dropdown box that has appeared under “Permissions”, and make sure the bot has permission to Ban Members, Send Messages, and View Channels. After that, save your changes.<br>
 On the same page, go to “Install Link” and click “copy”. Paste the link into a new tab.<br>
-Click “Add to Server”, and choose your server of choice. Click “Continue”, then “Authorize”. Your bot will now be in the server.</p>
+Click “Add to Server”, and select your server of choice. Click “Continue”, then “Authorize”. Your bot will now be in the server.</p>
 <h1 class="code-line" data-line-start=17 data-line-end=18 ><a id="Tutorial_2_Bot_Setup_17"></a>Tutorial #2 (Bot Setup)</h1>
 <p class="has-line-data" data-line-start="18" data-line-end="29">(Note: This tutorial is for Windows only! The installation process may be different on Mac or Linux.)<br>
 Download the latest Doctor Alexa .zip file from the releases page (https://github.com/TeaDrink1/doctor-alexa/releases/tag/bot), and extract it.<br>
