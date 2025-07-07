@@ -14,7 +14,7 @@ On the same page, go to “Install Link” and click “copy”. Paste the link 
 Click “Add to Server”, and choose your server of choice. Click “Continue”, then “Authorize”. Your bot will now be in the server.</p>
 <h1 class="code-line" data-line-start=17 data-line-end=18 ><a id="Tutorial_2_Bot_Setup_17"></a>Tutorial #2 (Bot Setup)</h1>
 <p class="has-line-data" data-line-start="18" data-line-end="29">(Note: This tutorial is for Windows only! The installation process may be different on Mac or Linux.)<br>
-Download the latest Doctor Alexa .zip file from the releases page, and extract it.<br>
+Download the latest Doctor Alexa .zip file from the releases page (https://github.com/TeaDrink1/doctor-alexa/releases/tag/bot), and extract it.<br>
 Go to <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a> and download the most recent version of Python.<br>
 Run the downloaded .exe file and go through the installer.<br>
 After python has successfully installed, open command prompt.<br>
